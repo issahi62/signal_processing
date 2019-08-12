@@ -35,4 +35,9 @@ stem(n,X(:,3), 'g', 'filled');
 stem(n, sum(X,2), 'g', 'filled');
 
 
+% Linear Time invariant (LTI) systems
+% 1. Scaling
+%2. Additivity
+%3. Time-invariant
+
     
